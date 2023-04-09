@@ -1,0 +1,26 @@
+h1 {
+	color: #501be3;
+	background-color: mediumpurple;
+	text-align: center;
+	font-family: 'roboto', sans-serif;
+
+}
+body {
+	background: url("img/classroom.jpg") no-repeat center center fixed;
+        background-size: cover;
+		padding:10px 15px;
+  font-size: 20px;
+}
+.nav{
+		text-size-adjust: 20px;
+		 font-size: 24px;
+		 color: blue;
+		 font-family: 'Poppins', sans-serif;
+	   margin:0; padding:0;
+	   box-sizing: border-box;
+	   outline: none; border:none;
+	   text-transform: capitalize;
+	   transition: all .2s linear;
+	 
+	 }
+

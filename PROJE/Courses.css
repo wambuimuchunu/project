@@ -1,0 +1,37 @@
+h1 {
+    background-color: brown;
+    text-align: center;
+    color: #1606ef;
+    
+}
+body {
+    background-color: lavender;
+    text-align: left;
+    text-decoration: solid;
+}
+h2 {
+    color: crimson;
+}
+.form-container {
+  
+    padding: 40px;
+    background-color:lavender;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-radius: 30px;
+    color: coral;
+    box-shadow: 0px 2px 5px #430101;
+    max-width: 900px;
+}
+.ledend{
+    color: cadetblue;
+}
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}

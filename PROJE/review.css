@@ -1,0 +1,19 @@
+h1 {
+    background-color: rgb(91, 42, 165);
+    text-align: center;
+    color: #e30909;
+    
+}
+
+h2 {
+    text-align: left;
+    color: rgb(224, 65, 7);
+    
+}
+
+body {
+	background: url("img/books.jpg") no-repeat center center fixed;
+        background-size: cover;
+        padding:10px 15px;
+  font-size: 20px;
+}
